@@ -7,7 +7,7 @@ SQLTop for MariaDB will connect to a MariaDB server and periodically run the SHO
 
 
 ## Download
-You can download the binaries directly from the downloads page or from www.sqltop.com/sqltop-for-mariadb/
+You can download the binaries directly from files section or from www.sqltop.com/sqltop-for-mariadb/
 
 
 ## Screenshoots
