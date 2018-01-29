@@ -12,3 +12,9 @@ SQLTop for MariaDB was inspired by the system monitoring tool top. Administrator
 
 SQLTop for MariaDB will connect to a MariaDB server and periodically run the SHOW PROCESSLIST and SHOW STATUS commands and attempt to summarize the information from them in a useful format.
 
+## Download
+You can download the binaries directly from the downloads page or from www.sqltop.com/mariadb/.
+
+
+## Screenshoots
+
