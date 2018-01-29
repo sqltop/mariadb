@@ -18,4 +18,9 @@ You can download the binaries directly from the downloads page or from www.sqlto
 
 ## Screenshoots
 
-![]sqltop.mariadb.g002.png
+![](sqltop.mariadb.g002.png)
+
+
+![](sqltop.mariadb.g001.png)
+
+
