@@ -1,5 +1,5 @@
-# mariadb
-SQLTop for MariaDB
+## SQLTop for MariaDB
+
 
 # Description
 Help is always welcome in improving this software. Feel free to contact the author (see AUTHOR below) with bug reports, fixes, suggestions, and comments.
