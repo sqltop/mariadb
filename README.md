@@ -15,7 +15,7 @@ You can download the binaries directly from files section or from www.sqltop.com
 ![](sqltop.mariadb.g002.png)
 
 
-![](sqltop.mariadb.g001.png)
+![](sqltop.mariadb.g003.png)
 
 
 ## Contributing
